@@ -10,6 +10,7 @@ I'm particularly interested in crafting crisp, intuitive user interfaces while g
 
 ### Interactive Breathing & Mindfulness App 
 (start: summer 2025)
+
 **Tech:** React, Hooks, Tailwind CSS, requestAnimationFrame  
 **Focus:** UI animation, state management, accessibility, UX
 
@@ -25,6 +26,7 @@ A responsive breathing application that guides users through timed breathing cyc
 
 ### AI-Assisted Quiz & Learning Platform
 (start: winter 2024)
+
 **Tech:** Node.js, Express, EJS, Markdown, Server-Sent Events, REST APIs  
 **Focus:** Educational tooling, backend architecture, real-time streaming
 
