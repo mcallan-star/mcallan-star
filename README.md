@@ -6,4 +6,3 @@
 - Building tools that meaningfully improve user experience  
 - Thoughtful UI/UX   
 - Open to collaboration on interesting and impactful projects  
-- Contact: madeleinecallan@outlook.com
