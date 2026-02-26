@@ -1,10 +1,5 @@
 ## Hello, I'm Madeleine
-
-I am a software engineer with a background in computer science and physics, focused on building thoughtful, user-centered applications and well-structured backend systems. I enjoy working across the full stack - from interactive, modern frontends to clean, logical APIs - and I value continuous learning and clarity in design.  
-
-I'm particularly interested in crafting crisp, intuitive user interfaces while grounding my work in strong algorithmic and systems thinking.
-
----
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
 ## A sample of my Current Projects: 
 
@@ -61,11 +56,6 @@ Data structures, algorithms, asynchronous programming, API design, UI state mana
 
 - Writing clear, maintainable, and well-documented code  
 - Building tools that meaningfully improve user experience  
-- Balancing creativity with practical, well-scoped projects  
-- Thoughtful UI/UX paired with solid engineering fundamentals  
-
----
-
-- Currently learning: Rust, Go, advanced JavaScript patterns, and dynamic programming techniques  
+- Thoughtful UI/UX   
 - Open to collaboration on interesting and impactful projects  
 - Contact: madeleinecallan@outlook.com
