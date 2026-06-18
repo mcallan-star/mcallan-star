@@ -18,6 +18,21 @@
 
 </div>
 
+<div align="center">
+
+### Live GLSL shaders &nbsp;, &nbsp; [mcallan-star/shadertoy ->](https://github.com/mcallan-star/shadertoy)
+
+<a href="https://github.com/mcallan-star/shadertoy">
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif" width="174" alt="plasma shader"/>
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif" width="174" alt="gyroid shader"/>
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/domain_warp.gif" width="174" alt="domain warp shader"/>
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/raymarch_sphere.gif" width="174" alt="raymarched sphere shader"/>
+</a>
+
+<sub>plasma, gyroid, domain-warped fbm, raymarched sphere - <a href="https://github.com/mcallan-star/shadertoy">8 shaders, with source</a></sub>
+
+</div>
+
 ---
 
 ## About me
@@ -60,6 +75,20 @@ I'm a physicist-turned-computer-scientist - **M.S. Computer Science** *(GPA 3.85
 
 ## Featured projects
 
+### Wave Propagation and Interference Shaders
+[![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
+![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+A growing collection of **real-time GLSL fragment shaders** - wave propagation and interference, fractals (Julia sets), domain-warped fbm noise, and signed-distance-field **raymarching** (sphere, gyroid). Each runs per pixel on the GPU, with amplitude/frequency parameters tuned against expected wave behavior. The interference and wave pieces are a direct, visual extension of my optics work - physics you can watch.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/interference.gif" width="200" alt="wave interference"/>
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/julia.gif" width="200" alt="julia set"/>
+  <img src="https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/truchet.gif" width="200" alt="truchet tiles"/>
+</p>
+
+> Every loop is seamless by construction - e.g. the Julia constant orbits a circle, the domain-warp offset traces a closed path.
+
 ### FiberTouch 4x4 - Fiber-Optic Touch Sensing and Signal-Propagation Model
 [![repo](https://img.shields.io/badge/Repo-fibertouch--4x4-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/fibertouch-4x4)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -88,12 +117,6 @@ A full semester-long graduate-style optics lab, documented week by week. I align
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 The **DFT implemented from first principles** - decomposing signals into their frequency spectra by hand, then **validated against NumPy's FFT and analytical transforms**. The kind of "build the math to truly understand it" exercise that underpins the spectral work in my optics projects.
-
-### Wave Propagation and Interference Shaders
-[![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
-![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-Real-time **GLSL fragment shaders** modeling sinusoidal **wave propagation, interference, and light-surface distortion** - per pixel, on the GPU. Amplitude and frequency parameters tuned against expected wave behavior: physics you can watch.
 
 ---
 
@@ -126,44 +149,4 @@ Real-time **GLSL fragment shaders** modeling sinusoidal **wave propagation, inte
 - [`cs-website`](https://github.com/mcallan-star/cs-website) - PHP site
 - [`theCatChat`](https://github.com/mcallan-star/theCatChat) - chat app
 - [`my-breathing-app`](https://github.com/mcallan-star/my-breathing-app) - breathing exercise app
-- [`RecipeApplication`](https://github.com/mcallan-star/RecipeApplication) - recipe manager
-- [`my-app`](https://github.com/mcallan-star/my-app) and [`project2`](https://github.com/mcallan-star/project2) - JS apps
-
-**Games and creative**
-- [`finalproject`](https://github.com/mcallan-star/finalproject) - Godot game (GDScript)
-- [`typing-game`](https://github.com/mcallan-star/typing-game) - typing trainer
-
-</td>
-</tr>
-</table>
-
----
-
-## Experience snapshot
-
-| Role | Summary |
-|------|---------|
-| **TA and Lab Manager**, SUNY New Paltz | Led CS I and II labs (Java, OOP, data structures); coached 50+ students; managed lab systems |
-| **NSF REU Researcher**, RPI | $6,000 grant; first-principles DFT on quinones in ORCA on an HPC cluster |
-| **TA, Physics of Engineering**, Johns Hopkins CTY | Hands-on design, iteration, and analysis labs for advanced students |
-
----
-
-<div align="center">
-
-### GitHub in numbers
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mcallan-star&show_icons=true&hide_border=true&title_color=2575fc&icon_color=6a11cb&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcallan-star&hide_border=true&ring=2575fc&fire=6a11cb&currStreakLabel=2575fc" alt="streak"/>
-
-<br/><br/>
-
-*From wave equations to working hardware.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-
-</div>
+- [`RecipeApplication`](https://github.com/mcallan-star/RecipeAppl
