@@ -84,6 +84,10 @@ The part I'm most proud of is the **companion optics model** that makes the thre
 
 > Highlights: `SW-*` test IDs traced to a written verification plan; SNR ≥ 5 and isolation ≥ 6 dB targets; split-step NLSE validated to < 0.2% on solitons.
 
+**See it work** - straight from the notebooks: a detected touch map, neighbour isolation clearing the -6 dB target, and the NLSE solver holding a soliton against theory.
+
+[![FiberTouch results: touch map, neighbour isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
+
 ### Experimental Optics Laboratory - HeNe, Interferometry and Polarimetry
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -159,16 +163,4 @@ The **DFT implemented from first principles** - decomposing signals into their f
 ### GitHub in numbers
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mcallan-star&show_icons=true&hide_border=true&title_color=2575fc&icon_color=6a11cb&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcallan-star&hide_border=true&ring=2575fc&fire=6a11cb&currStreakLabel=2575fc" alt="streak"/>
-
-<br/><br/>
-
-*From wave equations to working hardware.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc&lang
