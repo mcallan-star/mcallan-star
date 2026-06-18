@@ -85,7 +85,8 @@ The part I'm most proud of is the **companion optics model** that makes the thre
 > Highlights: `SW-*` test IDs traced to a written verification plan; SNR ≥ 5 and isolation ≥ 6 dB targets; split-step NLSE validated to < 0.2% on solitons.
 
 **See it work** - straight from the notebooks: a detected touch map, neighbour isolation clearing the -6 dB target, and the NLSE solver holding a soliton against theory.
-
+[![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/master/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
+Above image editted in photoshop to enhance glow effect.
 [![FiberTouch results: touch map, neighbour isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
 
 ### Experimental Optics Laboratory - HeNe, Interferometry and Polarimetry
