@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dont%20let%20perfect%20be%20the%20enemy%20of%20the%20good&descSize=20&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/mcallan-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=dont+let+perfect+be+the+enemy+of+the+good;physics+sims%2C+shaders%2C+a+touch+panel+made+of+light;always+half-learning+something+new;physics+%2B+CS+%40+SUNY+New+Paltz" alt="typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=its+seven+pm+fri%2C+its+95+degree...;...everybody%27s+out%2C+just+the+segfaults+and+me;physics+sims%2C+shaders%2C+a+touch+panel+made+of+light;always+half-learning+something+new;physics+%2B+CS+%40+SUNY+New+Paltz" alt="typing tagline"/>
 </a>
 
 <br/>
