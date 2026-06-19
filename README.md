@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physicist%20who%20codes%20%E2%80%94%20Optics%20%C2%B7%20Computation%20%C2%B7%20Signals&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dont%20let%20perfect%20be%20the%20enemy%20of%20the%20good&descSize=20&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/mcallan-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=From+wave+equations+to+working+hardware.;Split-step+Fourier+solvers+%26+fiber-optic+touch.;DFT+from+scratch%2C+validated+against+the+math.;M.S.+CS+%2B+B.S.+Physics+%E2%80%94+I+build+what+I+model." alt="typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=dont+let+perfect+be+the+enemy+of+the+good;physics+sims%2C+shaders%2C+a+touch+panel+made+of+light;always+half-learning+something+new;physics+%2B+CS+%40+SUNY+New+Paltz" alt="typing tagline"/>
 </a>
 
 <br/>
@@ -20,18 +20,29 @@
 
 ---
 
-## About me
+<div align="center">
 
-I'm a physicist-turned-computer-scientist - **M.S. Computer Science** *(GPA 3.85)* and **B.S. Physics** *(major GPA 3.91)* from **SUNY New Paltz**. My favorite kind of project starts with a wave equation on a whiteboard and ends with code, a test suite, and sometimes a soldering iron.
+### cat tax: charlotte, the best cheeto cat (°◡°♡)
 
-- **Optics and signals** are my home turf: HeNe lasers, interferometry, Fourier analysis, and the nonlinear Schrödinger equation.
-- I build things **from first principles** and validate them against the analytical answer - DFTs, split-step solvers, link budgets.
-- I move between **scientific computing** (NumPy / SciPy / Jupyter) and **real systems** (Raspberry Pi, GLSL, web stacks).
-- **NSF REU researcher** (DFT on a supercomputing cluster) and a **CS I/II lab manager and TA** who coached 50+ students through debugging and algorithms.
+<img src="https://github.com/mcallan-star/shadertoy/raw/master/media/charlotte.gif" width="300"/>
+
+<sub>she has contributed exactly zero commits and remains completely unbothered</sub>
+
+</div>
+
+## hi, i'm madeleine 👋
+
+i'm a physics major who wandered into computer science and kind of never left (no regrets). the thing that drives me is pretty simple: i like building something until i actually *get* it. a wave equation on a whiteboard is cool and all, but i don't really believe it until i've written the code, watched it move, and broken it a few times.
+
+that curiosity doesn't stay in one lane. i've simulated planets and quantum wavepackets, written GPU shaders just because they're pretty, built a little touch panel out of fiber optics and infrared light, and TA'd intro CS for a couple years (helping someone finally get unstuck is the best feeling there is). i spent a research summer running quantum-chemistry calculations on a supercomputing cluster, and i also have a graveyard of half-finished web apps and game experiments (a typing game, a breathing app, a chat app...) that i'm weirdly attached to.
+
+some of this is polished. a lot of it is me teaching myself something out loud and committing the mess. both count imo.
+
+> physics + CS at SUNY New Paltz, usually building something
 
 <div align="center">
 
-### Toolbox
+### the stuff i reach for
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -51,59 +62,67 @@ I'm a physicist-turned-computer-scientist - **M.S. Computer Science** *(GPA 3.85
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## Featured projects
+## Things I've Built
 
-### Wave Propagation and Interference Shaders
+### 🌊 shaders, which started as a physics tangent
 [![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-Real-time **GLSL fragment shaders**: wave propagation and interference, Julia-set fractals, domain-warped fbm noise, and SDF **raymarching** (sphere, gyroid). Per pixel, on the GPU - eight shaders, each a seamless loop.
+i got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. turns out, a lot. wave interference, julia-set fractals, domain-warped noise, raymarched 3d surfaces (a sphere, a gyroid), eight of them and each a seamless loop. the interference one is basically my optics homework in a costume.
 
 [![plasma](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif)](https://github.com/mcallan-star/shadertoy)
 [![gyroid](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif)](https://github.com/mcallan-star/shadertoy)
 [![interference](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/interference.gif)](https://github.com/mcallan-star/shadertoy)
 [![domain warp](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/domain_warp.gif)](https://github.com/mcallan-star/shadertoy)
 
-### FiberTouch 4x4 - Fiber-Optic Touch Sensing and Signal-Propagation Model
+### 💡 FiberTouch 4x4: a touchscreen made of light
 [![repo](https://img.shields.io/badge/Repo-fibertouch--4x4-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/fibertouch-4x4)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-A proof-of-concept touch surface with **no electronics in the panel** - light does all the work. A Raspberry Pi multiplexes **sixteen 850 nm IR LED/fiber transmit pairs** through a **PCA9685** driver while a **NoIR camera** images a matching 4x4 grid of receive fibers. A finger scatters extra IR into a pixel's receive fiber, the camera sees that spot brighten, and a **computer-vision pipeline** - ambient subtraction, per-pixel baseline calibration, thresholding - renders a **live touch map**.
+a touch surface with zero electronics in the panel itself. light does all the work. a raspberry pi flashes sixteen infrared LED/fiber pairs through the surface while a camera watches a matching grid of receive fibers. put your finger down and it scatters a little extra IR into one spot; the camera sees it brighten, and a small computer-vision pipeline turns that into a live touch map.
 
-The part I'm most proud of is the **companion optics model** that makes the thresholds *derived*, not guessed: a **split-step Fourier solver for the Nonlinear Schrödinger Equation** plus a **dB link- and crosstalk-budget**, predicting how the IR signal propagates and attenuates through the fibers - all **validated against analytical results** (dispersive Gaussian broadening, fundamental-soliton shape invariance, energy conservation). The repo is engineered like a real bring-up: a green **pytest** suite in **GitHub Actions CI**, executed Jupyter notebooks, Raspberry Pi drivers, and a staged hardware plan (one pixel, then 2x2, then full array) with logged SNR and isolation data.
+the part i love most is the physics model riding shotgun, the thing that makes the detection thresholds *earned* instead of guessed: a split-step solver for how the light pulse spreads and fades as it travels down the fiber, checked the whole way against the analytic answer. and it's built like a real bring-up, with tests in CI, executed notebooks, pi drivers, and a staged plan that goes one pixel, then 2x2, then the full array, with actual logged data.
 
-> Highlights: `SW-*` test IDs traced to a written verification plan; SNR ≥ 5 and isolation ≥ 6 dB targets; split-step NLSE validated to < 0.2% on solitons.
+[![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
+[![results: touch map, isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
 
-**See it work** - straight from the notebooks: a detected touch map, neighbour isolation clearing the -6 dB target, and the NLSE solver holding a soliton against theory.
-[![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/master/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
-Above image editted in photoshop to enhance glow effect.
-[![FiberTouch results: touch map, neighbour isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
+*(full honesty: the glow in that first shot is photoshopped, the real thing is way dimmer. the plots are real.)*
 
-### Experimental Optics Laboratory - HeNe, Interferometry and Polarimetry
+### 🔬 A whole semester of optics, week by week
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Optics](https://img.shields.io/badge/-Optics-6a11cb?style=flat-square)
 
-A full semester-long graduate-style optics lab, documented week by week. I aligned and characterized a **HeNe laser** (power, wavelength, mode), measured **Gaussian-beam waist and Rayleigh range**, and built a **Michelson interferometer** with fringe analysis and **piezo calibration**. From there: **Brewster-angle / Fresnel reflectance**, **polarization optics** (half- and quarter-wave plates), **interference and diffraction**, and **spatial-light-modulator Laguerre-Gauss modes** - all analyzed in **MATLAB**, with the final **polarization project presented as a poster**.
+my undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring gaussian-beam waists, building a michelson interferometer, brewster angles and fresnel reflectance, wave plates and polarization, diffraction, and finally driving a spatial light modulator to shape laguerre-gauss beams. basically all the bench intuition behind fibertouch came from this room.
 
-> Why it matters: the experimental intuition behind FiberTouch - link budgets, contrast, and "characterize, don't just pass/fail" - came straight from this bench.
-
-### Discrete Fourier Transform and Signal Analysis Toolkit
+### 🪐 python-junk: four years of teaching myself to simulate physics
 [![repo](https://img.shields.io/badge/Repo-Python--junk-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/Python-junk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-The **DFT implemented from first principles** - decomposing signals into their frequency spectra by hand, then **validated against NumPy's FFT and analytical transforms**. The kind of "build the math to truly understand it" exercise that underpins the spectral work in my optics projects.
+four years of me teaching myself to simulate things in python, all in one repo. it started as a projectile that falls and slowly grew into the schrödinger equation. the thing this page used to call a "signal analysis toolkit" is in here too: the **discrete fourier transform built from scratch** and checked against numpy, plus a little playground that pulls clean tones right out of noise. it sits one folder over from n-body gravity, chaotic attractors, heat diffusion, and quantum tunneling.
+
+<table>
+<tr>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/fft_signal.png" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/waves/fft_signal.py">DFT from scratch, pulling tones out of noise</a></sub></td>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/nbody.gif" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/mechanics/nbody.py">n-body gravity</a></sub></td>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/tunneling.gif" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/quantum/tunneling.py">quantum tunneling</a></sub></td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/heat2d.gif" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/pde/heat2d.py">2d heat diffusion</a></sub></td>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/lorenz.gif" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/lorenz.py">the lorenz attractor</a></sub></td>
+  <td align="center"><a href="https://github.com/mcallan-star/Python-junk"><img src="https://github.com/mcallan-star/Python-junk/raw/main/media/solar_system.gif" width="250"></a><br><sub><a href="https://github.com/mcallan-star/Python-junk/blob/main/mechanics/solar_system.py">a toy solar system</a></sub></td>
+</tr>
+</table>
+
+honestly the readme over in that repo is the most *me* thing on this whole profile.
 
 ---
 
@@ -113,35 +132,35 @@ The **DFT implemented from first principles** - decomposing signals into their f
 <tr>
 <td valign="top" width="50%">
 
-**Teaching and CS education**
-- [`intro-java-teaching-kit`](https://github.com/mcallan-star/intro-java-teaching-kit) - Java teaching materials
-- [`CS1-Guides`](https://github.com/mcallan-star/CS1-Guides) - CS I student guides
-- [`java`](https://github.com/mcallan-star/java) and [`9_8`](https://github.com/mcallan-star/9_8) - Java coursework and demos
+**teaching + CS**
+- [`intro-java-teaching-kit`](https://github.com/mcallan-star/intro-java-teaching-kit): java teaching materials
+- [`CS1-Guides`](https://github.com/mcallan-star/CS1-Guides): intro CS student guides
+- [`java`](https://github.com/mcallan-star/java) and [`9_8`](https://github.com/mcallan-star/9_8): java coursework + demos
 
-**Algorithms and math**
-- [`astar`](https://github.com/mcallan-star/astar) - A* pathfinding (JS)
-- [`integral`](https://github.com/mcallan-star/integral) - numerical integration
-- [`jsCalculatorSimple`](https://github.com/mcallan-star/jsCalculatorSimple) - calculator
+**algorithms + math**
+- [`astar`](https://github.com/mcallan-star/astar): A* pathfinding (JS)
+- [`integral`](https://github.com/mcallan-star/integral): numerical integration
+- [`jsCalculatorSimple`](https://github.com/mcallan-star/jsCalculatorSimple): a calculator
 
-**Security and systems**
-- [`Network-Security-Basics`](https://github.com/mcallan-star/Network-Security-Basics) - network security notes (LaTeX)
-- [`command-line-dashboard`](https://github.com/mcallan-star/command-line-dashboard) - CLI dashboard
-- [`aseprite-build-ci`](https://github.com/mcallan-star/aseprite-build-ci) - CI build pipeline
+**security + systems**
+- [`Network-Security-Basics`](https://github.com/mcallan-star/Network-Security-Basics): security notes (LaTeX)
+- [`command-line-dashboard`](https://github.com/mcallan-star/command-line-dashboard): CLI dashboard
+- [`aseprite-build-ci`](https://github.com/mcallan-star/aseprite-build-ci): a CI build pipeline
 
 </td>
 <td valign="top" width="50%">
 
-**Web and apps**
-- [`personal-site`](https://github.com/mcallan-star/personal-site) and [`personal-website`](https://github.com/mcallan-star/personal-website) - portfolio sites
-- [`cs-website`](https://github.com/mcallan-star/cs-website) - PHP site
-- [`theCatChat`](https://github.com/mcallan-star/theCatChat) - chat app
-- [`my-breathing-app`](https://github.com/mcallan-star/my-breathing-app) - breathing exercise app
-- [`RecipeApplication`](https://github.com/mcallan-star/RecipeApplication) - recipe manager
-- [`my-app`](https://github.com/mcallan-star/my-app) and [`project2`](https://github.com/mcallan-star/project2) - JS apps
+**web + apps**
+- [`personal-site`](https://github.com/mcallan-star/personal-site) and [`personal-website`](https://github.com/mcallan-star/personal-website): portfolio sites
+- [`cs-website`](https://github.com/mcallan-star/cs-website): PHP site
+- [`theCatChat`](https://github.com/mcallan-star/theCatChat): a chat app
+- [`my-breathing-app`](https://github.com/mcallan-star/my-breathing-app): a little breathing-exercise app
+- [`RecipeApplication`](https://github.com/mcallan-star/RecipeApplication): recipe manager
+- [`my-app`](https://github.com/mcallan-star/my-app) and [`project2`](https://github.com/mcallan-star/project2): JS apps
 
-**Games and creative**
-- [`finalproject`](https://github.com/mcallan-star/finalproject) - Godot game (GDScript)
-- [`typing-game`](https://github.com/mcallan-star/typing-game) - typing trainer
+**games + creative**
+- [`finalproject`](https://github.com/mcallan-star/finalproject): a godot game (GDScript)
+- [`typing-game`](https://github.com/mcallan-star/typing-game): a typing trainer
 
 </td>
 </tr>
@@ -149,19 +168,14 @@ The **DFT implemented from first principles** - decomposing signals into their f
 
 ---
 
-## Experience snapshot
-
-| Role | Summary |
-|------|---------|
-| **TA and Lab Manager**, SUNY New Paltz | Led CS I and II labs (Java, OOP, data structures); coached 50+ students; managed lab systems |
-| **NSF REU Researcher**, RPI | $6,000 grant; first-principles DFT on quinones in ORCA on an HPC cluster |
-| **TA, Physics of Engineering**, Johns Hopkins CTY | Hands-on design, iteration, and analysis labs for advanced students |
-
----
-
 <div align="center">
 
-### GitHub in numbers
+### a few github numbers, for the curious
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mcallan-star&show_icons=true&hide_border=true&title_color=2575fc&icon_color=6a11cb&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc&lang
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc" alt="top languages"/>
+
+<br/><br/>
+<em>thanks for scrolling (≧◡≦) go build something.</em>
+
+</div>
