@@ -70,18 +70,18 @@ some of this is polished. a lot of it is me teaching myself something out loud a
 
 ## Things I've Built
 
-### 🌊 shaders, which started as a physics tangent
+### 🌊 [shaders, which started as a physics tangent](https://github.com/mcallan-star/shadertoy)
 [![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-i got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. turns out, a lot. wave interference, julia-set fractals, domain-warped noise, raymarched 3d surfaces (a sphere, a gyroid), eight of them and each a seamless loop. the interference one is basically my optics homework in a costume.
+i got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. turns out, a lot. wave interference, julia-set fractals, domain-warped noise, raymarched 3d surfaces (a sphere, a gyroid), eight of them and each a seamless loop. the interference one is basically my optics homework in a costume. honestly if you wanna get into glsl, [The Art of Code](https://www.youtube.com/TheArtOfCodeIsCool) on youtube helped me a ton, can't recommend it enough.
 
 [![plasma](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif)](https://github.com/mcallan-star/shadertoy)
 [![gyroid](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif)](https://github.com/mcallan-star/shadertoy)
 [![interference](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/interference.gif)](https://github.com/mcallan-star/shadertoy)
 [![domain warp](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/domain_warp.gif)](https://github.com/mcallan-star/shadertoy)
 
-### 💡 FiberTouch 4x4: a touchscreen made of light
+### 💡 [FiberTouch 4x4: a touchscreen made of light](https://github.com/mcallan-star/fibertouch-4x4)
 [![repo](https://img.shields.io/badge/Repo-fibertouch--4x4-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/fibertouch-4x4)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -96,13 +96,13 @@ the part i love most is the physics model riding shotgun, the thing that makes t
 
 *(full honesty: the glow in that first shot is photoshopped, the real thing is way dimmer. the plots are real.)*
 
-### 🔬 A whole semester of optics, week by week
+### 🔬 [A whole semester of optics, week by week](https://github.com/mcallan-star/optics-lab-fall2022)
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 my undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring gaussian-beam waists, building a michelson interferometer, brewster angles and fresnel reflectance, wave plates and polarization, diffraction, and finally driving a spatial light modulator to shape laguerre-gauss beams. basically all the bench intuition behind fibertouch came from this room.
 
-### 🪐 python-junk: four years of teaching myself to simulate physics
+### 🪐 [python-junk: four years of teaching myself to simulate physics](https://github.com/mcallan-star/Python-junk)
 [![repo](https://img.shields.io/badge/Repo-Python--junk-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/Python-junk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
