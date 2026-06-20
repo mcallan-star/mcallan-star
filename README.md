@@ -170,8 +170,6 @@ honestly the readme over in that repo is the most *me* thing on this whole profi
 
 <div align="center">
 
-### a few github numbers, for the curious
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc" alt="top languages"/>
 
 <br/><br/>
