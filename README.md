@@ -5,11 +5,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dont%20let%20perfect%20be%20the%20enemy%20of%20the%20good&descSize=20&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Do%20not%20let%20perfect%20be%20the%20enemy%20of%20the%20good&descSize=20&descAlignY=58" width="100%"/>
 
 <a href="https://github.com/mcallan-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=its+seven+pm+fri%2C+its+95+degree...;...its+too+hot+to+move%2C+so+im+derivin+the+partition%27+Z" alt="typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=falling+apart+then+reassembling...;...breathe+and+continue" alt="typing tagline"/>
 </a>
+
 
 <br/>
 
@@ -22,27 +23,24 @@
 
 <div align="center">
 
-### cat tax: charlotte, the best cheeto cat (°◡°♡)
+### Meet Charlotte, my little cheeto cat (°◡°♡)
 
 <img src="https://github.com/mcallan-star/shadertoy/raw/master/media/charlotte.gif" width="300"/>
 
-<sub>she has contributed exactly zero commits and remains completely unbothered</sub>
 
 </div>
 
-## hi, i'm madeleine 👋
+## Hello, I'm Madeleine
 
-i'm a physics major who wandered into computer science and kind of never left (no regrets). the thing that drives me is pretty simple: i like building something until i actually *get* it. a wave equation on a whiteboard is cool and all, but i don't really believe it until i've written the code, watched it move, and broken it a few times.
+I got my degree in physics, and then wandered into computer science and kind of never left. What motivates me is simple: I like creating and building. Equations on a whiteboard are really cool, and I love seeing another facet of the concept in code,  watching it move, and break it a few times.  Some is polished; a lot of it is me playing around and committing the mess.
 
-that curiosity doesn't stay in one lane. i've simulated planets and quantum wavepackets, written GPU shaders just because they're pretty, built a little touch panel out of fiber optics and infrared light, and TA'd intro CS for a couple years (helping someone finally get unstuck is the best feeling there is). i spent a research summer running quantum-chemistry calculations on a supercomputing cluster, and i also have a graveyard of half-finished web apps and game experiments (a typing game, a breathing app, a chat app...) that i'm weirdly attached to.
+That curiosity doesn't stay in one place. I've simulated planets and quantum wavepackets, tried out GPU shaders, and built a touch panel out of fiber optics and infrared light.  I TA'd math courses and intro CS for a bunch of years - helping someone finally get unstuck is rewarding, and helps you refine your own understanding. I spent a research summer running quantum-chemistry calculations on a supercomputing cluster, and I also have a bunch of incomplete web apps and game experiments (a typing game, a breathing app, a chat app...) that I am interested in.
 
-some of this is polished. a lot of it is me teaching myself something out loud and committing the mess. both count imo.
-
-> physics + CS at SUNY New Paltz, usually building something
+> physics + CS at SUNY New Paltz
 
 <div align="center">
 
-### the stuff i reach for
+### Stuff I have used:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -70,44 +68,44 @@ some of this is polished. a lot of it is me teaching myself something out loud a
 
 ## Things I've Built
 
-### 🌊 [shaders, which started as a physics tangent](https://github.com/mcallan-star/shadertoy)
+###  [shaders, which started as a physics tangent](https://github.com/mcallan-star/shadertoy)
 [![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-i got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. turns out, a lot. wave interference, julia-set fractals, domain-warped noise, raymarched 3d surfaces (a sphere, a gyroid), eight of them and each a seamless loop. the interference one is basically my optics homework in a costume. honestly if you wanna get into glsl, [The Art of Code](https://www.youtube.com/TheArtOfCodeIsCool) on youtube helped me a ton, can't recommend it enough.
+I got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. Turns out, a lot. Wave interference, Julia-set fractals, Domain-warped noise, Raymarched 3D surfaces (a sphere, a gyroid), eight of them and each a seamless loop. The interference one is a flashback to optics. [The Art of Code](https://www.youtube.com/TheArtOfCodeIsCool) on youtube helped me a lot, and also Wikipedia deep dives.
 
 [![plasma](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif)](https://github.com/mcallan-star/shadertoy)
 [![gyroid](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif)](https://github.com/mcallan-star/shadertoy)
 [![interference](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/interference.gif)](https://github.com/mcallan-star/shadertoy)
 [![domain warp](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/domain_warp.gif)](https://github.com/mcallan-star/shadertoy)
 
-### 💡 [FiberTouch 4x4: a touchscreen made of light](https://github.com/mcallan-star/fibertouch-4x4)
+###  [FiberTouch 4x4: a Touchscreen made of light](https://github.com/mcallan-star/fibertouch-4x4)
 [![repo](https://img.shields.io/badge/Repo-fibertouch--4x4-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/fibertouch-4x4)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-a touch surface with zero electronics in the panel itself. light does all the work. a raspberry pi flashes sixteen infrared LED/fiber pairs through the surface while a camera watches a matching grid of receive fibers. put your finger down and it scatters a little extra IR into one spot; the camera sees it brighten, and a small computer-vision pipeline turns that into a live touch map.
+A touch surface with zero electronics in the panel itself. Light does all the work. a Raspberry Pi flashes 16 infrared LED/fiber pairs through the surface while a camera watches a matching grid of receive fibers. Put your finger down and it scatters a little extra IR into one spot; the camera sees it brighten, and a small computer-vision pipeline turns that into a live touch map.
 
-the part i love most is the physics model riding shotgun, the thing that makes the detection thresholds *earned* instead of guessed: a split-step solver for how the light pulse spreads and fades as it travels down the fiber, checked the whole way against the analytic answer. and it's built like a real bring-up, with tests in CI, executed notebooks, pi drivers, and a staged plan that goes one pixel, then 2x2, then the full array, with actual logged data.
+The part I love most is the physics model; the calculation of the detection thresholds using light pulses as it travels down the fiber.  It includes tests in CI, notebooks, Pi drivers, and a staged plan that goes one pixel, then 2x2, then the full array, with actual logged data.
 
 [![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
 [![results: touch map, isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
 
-*(full honesty: the glow in that first shot is photoshopped, the real thing is way dimmer. the plots are real.)*
+*(picture of assembly, and the plots)*
 
-### 🔬 [A whole semester of optics, week by week](https://github.com/mcallan-star/optics-lab-fall2022)
+###  [A whole semester of optics, week by week](https://github.com/mcallan-star/optics-lab-fall2022)
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-my undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring gaussian-beam waists, building a michelson interferometer, brewster angles and fresnel reflectance, wave plates and polarization, diffraction, and finally driving a spatial light modulator to shape laguerre-gauss beams. basically all the bench intuition behind fibertouch came from this room.
+My undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring Gaussian-beam waists, building a Michelson interferometer, Brewster angles and Fresnel reflectance, Wave plates and Polarization, diffraction, and finally driving a spatial light modulator to shape Laguerre-gauss beams. Basically, all the intuition behind fibertouch came from this room.
 
-### 🪐 [python-junk: four years of teaching myself to simulate physics](https://github.com/mcallan-star/Python-junk)
+###  [python-junk: four years of teaching myself to simulate physics](https://github.com/mcallan-star/Python-junk)
 [![repo](https://img.shields.io/badge/Repo-Python--junk-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/Python-junk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-four years of me teaching myself to simulate things in python, all in one repo. it started as a projectile that falls and slowly grew into the schrödinger equation. the thing this page used to call a "signal analysis toolkit" is in here too: the **discrete fourier transform built from scratch** and checked against numpy, plus a little playground that pulls clean tones right out of noise. it sits one folder over from n-body gravity, chaotic attractors, heat diffusion, and quantum tunneling.
+Four years of me trying to simulate things in python, all in one repo. It started with your basic projectile that falls and the I ended up with the Schrödinger equation. The thing this page used to call a "Signal Analysis toolkit" is also in here: the **Discrete Fourier Transform built from scratch** and checked against numpy.  There's also a little playground that pulls clean tones right out of noise. it sits one folder over from n-body gravity, chaotic attractors, heat diffusion, and quantum tunneling.
 
 <table>
 <tr>
@@ -122,11 +120,9 @@ four years of me teaching myself to simulate things in python, all in one repo. 
 </tr>
 </table>
 
-honestly the readme over in that repo is the most *me* thing on this whole profile.
-
 ---
 
-## More from the workshop
+## More Projects
 
 <table>
 <tr>
@@ -173,6 +169,6 @@ honestly the readme over in that repo is the most *me* thing on this whole profi
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc" alt="top languages"/>
 
 <br/><br/>
-<em>thanks for scrolling (≧◡≦) go build something.</em>
+<em>thanks for reading ₍ ᐢ. ̫ .ᐢ ₎ </em>
 
 </div>
