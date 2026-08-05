@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### Meet Charlotte, my little cheeto cat (°◡°♡)
+### Meet Charlotte, my cat (°◡°♡)
 
 <img src="https://github.com/mcallan-star/shadertoy/raw/master/media/charlotte.gif" width="300"/>
 
@@ -31,10 +31,6 @@
 </div>
 
 ## Hello, I'm Madeleine
-
-I got my degree in physics, and then wandered into computer science and kind of never left. What motivates me is simple: I like creating and building. Equations on a whiteboard are really cool, and I love seeing another facet of the concept in code,  watching it move, and break it a few times.  Some is polished; a lot of it is me playing around and committing the mess.
-
-That curiosity doesn't stay in one place. I've simulated planets and quantum wavepackets, tried out GPU shaders, and built a touch panel out of fiber optics and infrared light.  I TA'd math courses and intro CS for a bunch of years - helping someone finally get unstuck is rewarding, and helps you refine your own understanding. I spent a research summer running quantum-chemistry calculations on a supercomputing cluster, and I also have a bunch of incomplete web apps and game experiments (a typing game, a breathing app, a chat app...) that I am interested in.
 
 > physics + CS at SUNY New Paltz
 
@@ -72,7 +68,7 @@ That curiosity doesn't stay in one place. I've simulated planets and quantum wav
 [![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-I got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. Turns out, a lot. Wave interference, Julia-set fractals, Domain-warped noise, Raymarched 3D surfaces (a sphere, a gyroid), eight of them and each a seamless loop. The interference one is a flashback to optics. [The Art of Code](https://www.youtube.com/TheArtOfCodeIsCool) on youtube helped me a lot, and also Wikipedia deep dives.
+I got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. Turns out, a lot. Wave interference, Julia-set fractals, Domain-warped noise, Raymarched 3D surfaces (a sphere, a gyroid), eight of them and each a seamless loop. 
 
 [![plasma](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif)](https://github.com/mcallan-star/shadertoy)
 [![gyroid](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif)](https://github.com/mcallan-star/shadertoy)
@@ -87,7 +83,6 @@ I got curious about how much you can do in a single fragment shader, code that r
 
 A touch surface with zero electronics in the panel itself. Light does all the work. a Raspberry Pi flashes 16 infrared LED/fiber pairs through the surface while a camera watches a matching grid of receive fibers. Put your finger down and it scatters a little extra IR into one spot; the camera sees it brighten, and a small computer-vision pipeline turns that into a live touch map.
 
-The part I love most is the physics model; the calculation of the detection thresholds using light pulses as it travels down the fiber.  It includes tests in CI, notebooks, Pi drivers, and a staged plan that goes one pixel, then 2x2, then the full array, with actual logged data.
 
 [![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
 [![results: touch map, isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
