@@ -3,15 +3,6 @@
   Lives at:  github.com/mcallan-star/mcallan-star  ->  README.md
 -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Madeleine%20Callan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Do%20not%20let%20perfect%20be%20the%20enemy%20of%20the%20good&descSize=20&descAlignY=58" width="100%"/>
-
-<a href="https://github.com/mcallan-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3400&pause=900&color=2575FC&center=true&vCenter=true&width=760&lines=falling+apart+then+reassembling...;...breathe+and+continue" alt="typing tagline"/>
-</a>
-
-
 <br/>
 
 [![Email](https://img.shields.io/badge/madeleinecallan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madeleinecallan@gmail.com)
@@ -68,8 +59,6 @@
 [![repo](https://img.shields.io/badge/Repo-shadertoy-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/shadertoy)
 ![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-I got curious about how much you can do in a single fragment shader, code that runs once per pixel, on the GPU, every single frame. Turns out, a lot. Wave interference, Julia-set fractals, Domain-warped noise, Raymarched 3D surfaces (a sphere, a gyroid), eight of them and each a seamless loop. 
-
 [![plasma](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/plasma.gif)](https://github.com/mcallan-star/shadertoy)
 [![gyroid](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/gyroid.gif)](https://github.com/mcallan-star/shadertoy)
 [![interference](https://raw.githubusercontent.com/mcallan-star/shadertoy/master/media/interference.gif)](https://github.com/mcallan-star/shadertoy)
@@ -99,8 +88,6 @@ My undergrad optics lab, documented experiment by experiment: aligning and chara
 [![repo](https://img.shields.io/badge/Repo-Python--junk-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/Python-junk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-Four years of me trying to simulate things in python, all in one repo. It started with your basic projectile that falls and the I ended up with the Schrödinger equation. The thing this page used to call a "Signal Analysis toolkit" is also in here: the **Discrete Fourier Transform built from scratch** and checked against numpy.  There's also a little playground that pulls clean tones right out of noise. it sits one folder over from n-body gravity, chaotic attractors, heat diffusion, and quantum tunneling.
 
 <table>
 <tr>
@@ -164,6 +151,5 @@ Four years of me trying to simulate things in python, all in one repo. It starte
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallan-star&layout=compact&hide_border=true&title_color=2575fc" alt="top languages"/>
 
 <br/><br/>
-<em>thanks for reading ₍ ᐢ. ̫ .ᐢ ₎ </em>
 
 </div>
