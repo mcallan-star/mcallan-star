@@ -67,14 +67,6 @@
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-A touch surface with zero electronics in the panel itself. Light does all the work. a Raspberry Pi flashes 16 infrared LED/fiber pairs through the surface while a camera watches a matching grid of receive fibers. Put your finger down and it scatters a little extra IR into one spot; the camera sees it brighten, and a small computer-vision pipeline turns that into a live touch map.
-
-
-[![prototype](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/2026-06-18_01-21-16.png)](https://github.com/mcallan-star/fibertouch-4x4)
-[![results: touch map, isolation, soliton vs theory](https://raw.githubusercontent.com/mcallan-star/fibertouch-4x4/main/results/showcase.png)](https://github.com/mcallan-star/fibertouch-4x4)
-
-*(picture of assembly, and the plots)*
-
 ###  [A whole semester of optics, week by week](https://github.com/mcallan-star/optics-lab-fall2022)
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
