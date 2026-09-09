@@ -13,8 +13,6 @@
 
 <div align="center">
 
-### Meet Charlotte, my cat (°◡°♡)
-
 <img src="https://github.com/mcallan-star/shadertoy/raw/master/media/charlotte.gif" width="300"/>
 
 
