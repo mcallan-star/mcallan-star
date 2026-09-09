@@ -5,8 +5,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/madeleinecallan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madeleinecallan@gmail.com)
-[![GitHub](https://img.shields.io/badge/@mcallan--star-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcallan-star)
+[![Email](https://img.shields.io/badge/madeleinecallan@outlook.com-EA4335?style=for-the-badge&logo=outlook&logoColor=white)](mailto:madeleinecallan@outlook.com)
 
 </div>
 
