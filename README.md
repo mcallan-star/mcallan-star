@@ -71,7 +71,7 @@
 [![repo](https://img.shields.io/badge/Repo-optics--lab--fall2022-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/optics-lab-fall2022)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-My undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring Gaussian-beam waists, building a Michelson interferometer, Brewster angles and Fresnel reflectance, Wave plates and Polarization, diffraction, and finally driving a spatial light modulator to shape Laguerre-gauss beams. Basically, all the intuition behind fibertouch came from this room.
+My undergrad optics lab, documented experiment by experiment: aligning and characterizing a HeNe laser, measuring Gaussian-beam waists, building a Michelson interferometer, Brewster angles and Fresnel reflectance, Wave plates and Polarization, diffraction, and finally driving a spatial light modulator to shape Laguerre-gauss beams. 
 
 ###  [python-junk: four years of teaching myself to simulate physics](https://github.com/mcallan-star/Python-junk)
 [![repo](https://img.shields.io/badge/Repo-Python--junk-2575fc?style=flat-square&logo=github)](https://github.com/mcallan-star/Python-junk)
